@@ -1,2 +1,2 @@
 Q:Do you Love me ?
-A:
+A: Yes
